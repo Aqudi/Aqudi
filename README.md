@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there I'm Aqudi!👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAqudi)](https://hits.seeyoufarm.com)                     
+Hi, I'm Aqudi, I am majoring in computer science at Kookmin University.  
 
+- 🌱 I’m currently learning Flutter & Django
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAqudi)](https://hits.seeyoufarm.com)
 
 <!--
-**Aqudi/Aqudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github Stats][gs] 
+![Top Langs][tl]
+
+[gs]: https://github-readme-stats.vercel.app/api?username=Aqudi&count_private=true&show_icons=true&include_all_commits=true&theme=buefy 
+[tl]: https://github-readme-stats.vercel.app/api/top-langs/?username=Aqudi&hide=TeX&layout=compact&theme=buefy 
