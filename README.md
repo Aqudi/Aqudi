@@ -1,10 +1,5 @@
 ### Hi there I'm Aqudi!👋
 
-Hi, I'm Aqudi, I am majoring in computer science at Kookmin University.  
-
-- 🌱 I’m currently learning Flutter & Django
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAqudi)](https://hits.seeyoufarm.com)
 
 <!--
@@ -18,7 +13,7 @@ Hi, I'm Aqudi, I am majoring in computer science at Kookmin University.
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats][gs] 
+![Github Stats][gs]
 ![Top Langs][tl]
 
 [gs]: https://github-readme-stats.vercel.app/api?username=Aqudi&count_private=true&show_icons=true&include_all_commits=true&theme=buefy 
